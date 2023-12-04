@@ -31,3 +31,16 @@ pip install -r requirements.txt
 >
 >  ```bash
 >  pytest tests/test_netflix_home.py --html=reports/informe.html
+>  ```
+
+> [!NOTE]
+> El reporte correspondiente se guardara en la carpeta `reports/` bajo el nombre: `informe.html`
+
+## Contribuciones
+
+Para contribuir con el proyecto, por favor envia tus pulls requests a la rama principal.
+
+
+
+
+
