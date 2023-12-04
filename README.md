@@ -16,7 +16,7 @@ Este proyecto contiene scripts de automatización para realizar pruebas en la in
 ## Requisitos
 - Python 3.x
 - Selenium
-- pytest
+- pytest 
 
 ## Instalación
 Para instalar las dependencias del proyecto, ejecuta:
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 > [!IMPORTANT]
 > ## Ejecución de Pruebas
-> Para ejecutar las pruebas y recibir un reporte html, utiliza el siguiente comando:
+> Para ejecutar las pruebas y recibir un reporte html, utiliza el siguiente comando desde tu terminal (Windows):
 >
 >  ```bash
 >  pytest tests/test_netflix_home.py --html=reports/informe.html
