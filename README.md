@@ -47,17 +47,6 @@ PIP viene instalado por defecto con Python 3.4 y versiones posteriores.
 
 Si necesitas instalarlo o actualizarlo ve al siguiente link de la documentacion: https://pip.pypa.io/en/stable/installation/
 
-- Instalar Selenium
-
-1. Instalar Selenium usando PIP
-2. Abre una terminal o línea de comandos.
-3. Ejecuta el comando pip install selenium.
-
-- Instalar pytest
-1. Instalar pytest usando PIP
-2. Abre una terminal o línea de comandos.
-3. Ejecuta el comando pip install pytest.
-
 > [!IMPORTANT]
 > ## Notas Adicionales
 > 
