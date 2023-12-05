@@ -59,9 +59,12 @@ Si necesitas instalarlo o actualizarlo ve al siguiente link de la documentacion:
 3. Ejecuta el comando pip install pytest.
 
 > [!IMPORTANT]
-> Notas Adicionales
+> ## Notas Adicionales
+> 
 > Asegúrate de tener permisos de administrador si es necesario durante las instalaciones.
+> 
 > Después de instalar Python y PIP, puedes verificar sus versiones ejecutando python --version y pip --version en la terminal.
+> 
 > Si encuentras algún problema durante la instalación, revisa la documentación oficial o foros de la comunidad para soluciones específicas.
 
 ## Instalación
