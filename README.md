@@ -32,12 +32,6 @@ Este proyecto contiene scripts de automatización para realizar pruebas en la in
 1. Al abrir Visual Studio Code por primera vez, puedes personalizar el tema y otras configuraciones según tus preferencias.
 2. Puedes instalar extensiones útiles como Python o Git desde el panel de extensiones en el lado izquierdo.
 
-- Instalar PIP
-
-PIP viene instalado por defecto con Python 3.4 y versiones posteriores. 
-
-Si necesitas instalarlo o actualizarlo ve al siguiente link de la documentacion: https://pip.pypa.io/en/stable/installation/
-
 - Descargar e instalar Python 3.x
 
 1. Ve a la página oficial de Python: https://www.python.org/downloads/
@@ -46,6 +40,12 @@ Si necesitas instalarlo o actualizarlo ve al siguiente link de la documentacion:
 4. Ejecuta el instalador descargado.
 5. Asegúrate de marcar la opción "Add Python to PATH" durante la instalación.
 6. Sigue las instrucciones en pantalla para completar la instalación.
+
+- Instalar PIP
+
+PIP viene instalado por defecto con Python 3.4 y versiones posteriores. 
+
+Si necesitas instalarlo o actualizarlo ve al siguiente link de la documentacion: https://pip.pypa.io/en/stable/installation/
 
 - Instalar Selenium
 
