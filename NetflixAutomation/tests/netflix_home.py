@@ -5,7 +5,7 @@ from utils.Selectors import Selectores
 def test_acceso_a_netflix(navegador_web):
     # Crear una instancia de la página de inicio de Netflix
     netflix_home = NetflixHomePage(navegador_web)
-    netflix_home.configurar_espera_implicita(10)  # Configurar espera implícita
+    netflix_home.configurar_espera_implicita(10)  # Configurar espera implícita (No es una buena practica utilizar espera implícita e explicita en el mismo test)
 
     try:
         # Navegar a la página de inicio de Netflix
