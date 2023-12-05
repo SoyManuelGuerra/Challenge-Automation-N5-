@@ -1,6 +1,6 @@
 # conftest.py
 import pytest
-from utils.DriverManager import SingletonNavegadorWeb
+from utils.driver_manager import SingletonNavegadorWeb
 
 @pytest.fixture(scope="function")
 def navegador_web():

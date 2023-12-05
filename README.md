@@ -68,7 +68,12 @@ pip install -r requirements.txt
 > Para ejecutar las pruebas y recibir un reporte html, utiliza el siguiente comando desde tu terminal (Windows):
 >
 >  ```bash
->  pytest tests/test_netflix_home.py --html=reports/informe.html
+> pytest tests/netflix_home.py --html=reports/informe.html (Con este caso iremos al link indicado en la documentacion)
+
+> pytest tests/netflix_home_ar.py --html=reports/informe.html (Con este caso iremos al link redirigido a Netflix Argentina)
+
+
+
 >  ```
 >  El reporte correspondiente se guardara en la carpeta `reports/` bajo el nombre: `informe.html`
 

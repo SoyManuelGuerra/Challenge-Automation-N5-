@@ -18,7 +18,7 @@ def test_acceso_a_netflix(navegador_web):
         titulo = netflix_home.obtener_titulo() # Obtener el título de la página
         url = netflix_home.obtener_url() # Obtener la URL de la página
         print(f"Título de la página: {titulo}") # Imprimir el título de la página
-        assert url == "https://www.netflix.com", f"Ha sido direccionado a una URL incorrecta: {url}" # Verificar que la URL sea la correcta
+        assert url == "https://www.netflix.com/ar/", f"Ha sido direccionado a una URL incorrecta: {url}" # Verificar que la URL sea la correcta
     
     except Exception as e:
         print(f"Se produjo un error durante la prueba: {e}") # Imprimir el error
