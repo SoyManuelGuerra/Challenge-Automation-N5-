@@ -69,7 +69,7 @@ pip install -r requirements.txt
 >
 >  ```bash
 > pytest tests/netflix_home.py --html=reports/informe.html (Con este caso iremos al link indicado en la documentacion)
-
+>  
 > pytest tests/netflix_home_ar.py --html=reports/informe.html (Con este caso iremos al link redirigido a Netflix Argentina)
 
 
